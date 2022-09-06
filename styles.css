@@ -40,7 +40,7 @@ p{
 }
 @media only screen and (max-width: 600px) {
     .container{
-        height: 70vh;
+        height: 80vh;
         width: 70vw;
         margin: 5vh auto 0;
         padding: 0.5em;
